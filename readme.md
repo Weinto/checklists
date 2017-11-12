@@ -1,4 +1,11 @@
+# Checklists
+
 This repo host some useful checklists
 
-- Seo
-- Valuable content
+## Todo
+
+- Complete Development
+
+## Inspiration
+
+Inspired by https://humaan.com/checklist/
