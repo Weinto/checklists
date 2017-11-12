@@ -8,7 +8,7 @@
 - Medium
 - Github
 - Pinterest
-- Redit
+- Reddit
 - Tumblr
 - Flickr
 - Google Business
