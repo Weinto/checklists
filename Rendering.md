@@ -1,7 +1,5 @@
 # Rendering
 
-- Displays & functions correctly in IE9
-- Displays & functions correctly in IE10
 - Displays & functions correctly in IE11
 - Displays & functions correctly in Firefox (Windows)
 - Displays & functions correctly in Firefox (Mac)
